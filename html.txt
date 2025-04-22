@@ -1,0 +1,45 @@
+<header>
+  <h1>Фестиваль Музыки 2025</h1>
+  <p class="tagline">Энергия, свет и звуки на одном фестивале!</p>
+  <a href="#" class="btn">Купить билет</a>
+</header>
+
+<section class="about">
+  <h2>О событии</h2>
+  <p>Присоединяйся к нашему фестивалю! Живая музыка, потрясающая атмосфера и крутые события ждут тебя!</p>
+</section>
+
+<section class="program">
+  <h2>Программа</h2>
+  <div class="program-item">
+    <h3>15 июня</h3>
+    <p>Rock Night: Легенды рок-музыки на главной сцене!</p>
+  </div>
+  <div class="program-item">
+    <h3>16 июня</h3>
+    <p>Electro Waves: Лучшие электронные DJ на побочной сцене!</p>
+  </div>
+  <div class="program-item">
+    <h3>17 июня</h3>
+    <p>Chill Vibes: Расслабься под звуки спокойных мелодий.</p>
+  </div>
+</section>
+
+<section class="contacts">
+  <h2>Контакты</h2>
+  <p>Мы всегда на связи! Пиши нам по любым вопросам.</p>
+  <p>Email: festival@music.com</p>
+  <p>Телефон: +7 (123) 456-78-90</p>
+</section>
+
+<section class="reviews">
+  <h2>Отзывы</h2>
+  <p>"Это был мой лучший фестиваль! Невероятная атмосфера!" — Анна, 25 лет</p>
+  <p>"Каждый год жду с нетерпением этот фестиваль!" — Игорь, 30 лет</p>
+</section>
+
+<section class="map">
+  <h2>Как добраться</h2>
+  <p>Наша локация — в самом центре города, по адресу: ул. Пушкина, 1. Карту можно посмотреть ниже:</p>
+  <a href="https://maps.google.com" target="_blank" class="btn">Посмотреть на карте</a>
+</section><link rel="stylesheet" href="style.css">
